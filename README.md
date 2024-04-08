@@ -13,13 +13,23 @@ Node.js環境で以下のコマンドを実行して、`variant1.js`を実行し
 node variant1.js
 
 ## variant2の特徴と使い方
-variant2では、HTMLファイル (variant2.html) にJavaScript (variant2.js) とCSS (variant2.css) を組み合わせて使用します。これにより、ウェブページ上で九九の表が見やすく表示されます。
 
-ウェブサーバー（例えばserver.jsを使用したExpressサーバー）を起動し、ブラウザからアクセスすることで、variant2を見ることができます。
+variant2では、HTMLファイル (`variant2.html`) にJavaScript (`variant2.js`) とCSS (`variant2.css`) を組み合わせて使用します。これにより、ウェブページ上で九九の表が見やすく表示されます。
+
+ウェブサーバー（例えば`server.js`を使用したExpressサーバー）を起動し、ブラウザからアクセスすることで、variant2を見ることができます。
 
 ## 技術スタック
-JavaScript
-HTML
-CSS
+
+- JavaScript
+- HTML
+- CSS
+
 ## 目的
+
 このプロジェクトの目的は、基本的なプログラミングスキルとともに、ウェブ開発の基礎を理解し、実際にウェブページを作成する経験を積むことです。
+
+## 今後の予定
+
+- ユーザーインタラクションを取り入れた動的なウェブページの開発
+- ウェブ開発に関する新しい技術の探求
+- コードの最適化とリファクタリング
