@@ -1,0 +1,15 @@
+table {
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+td, th {
+    width: 36px;
+    border: 1px solid #aaaaaa;
+    padding: 3px;
+    text-align: right;
+}
+
+tr:first-child, td:first-child {
+    background-color: #9BFFE1;
+  }
